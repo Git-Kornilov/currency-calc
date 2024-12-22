@@ -1,0 +1,3 @@
+# Currency calculators
+
+React exercise
